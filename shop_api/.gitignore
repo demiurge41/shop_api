@@ -191,3 +191,10 @@ cython_debug/
 .ionide
 
 # End of https://www.toptal.com/developers/gitignore/api/django,visualstudiocode
+.ruff_cache/
+.pypirc
+marimo/_static/
+marimo/_lap/
+__marimo__/
+.streamlit/secrets.toml
+
